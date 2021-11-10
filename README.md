@@ -22,3 +22,14 @@ https://github.com/sponsors/ABSoSol-public
 
 # py_edu_learnpython
 education training stuff for learning python
+
+# Lessons
+* 00: installation and preconditions
+* 01: jupyter basics, syntax, comments, built-in functions, standard variables
+* 02: datatype enforce, complex datatypes (lists, dict), class function-calls, list-calls, print syntax
+
+preview:
+* 03: conditional statement, loops, functions
+* 04: working with modules and working with data
+* 05: working with databases
+* 06: working with webinformations
